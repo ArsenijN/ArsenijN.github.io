@@ -5,3 +5,5 @@ A site?!?
 (because I move this to here some time later)
 
 [RDSR](/RDSR)
+
+[MagicTP](https://arsenijn.github.io/MagicTP/)

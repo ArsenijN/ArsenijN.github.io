@@ -6,4 +6,4 @@ A site?!?
 
 [RDSR](/RDSR)
 
-[MagicTP](https://arsenijn.github.io/MagicTP/)
+[MagicTP](https://github.com/ArsenijN/MagicTP)
